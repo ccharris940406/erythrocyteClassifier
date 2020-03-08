@@ -1,2 +1,2 @@
 # erythrocyteClassifier
-Clasifica eritrocitos en circulares, elongados y otras deformaciones con HMM "Modelos Ocultos de Markov".
+Classify erythrocytes in circular, elongated and other deformations with HMM "Hidden Markov Models".
